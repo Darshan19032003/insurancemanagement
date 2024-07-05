@@ -1,0 +1,6 @@
+<?php
+
+
+$version = time();
+
+?>
